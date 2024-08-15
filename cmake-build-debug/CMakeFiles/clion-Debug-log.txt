@@ -1,0 +1,5 @@
+/home/Vinagre/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/Vinagre/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/Vinagre/Documents/Udacity/CppND-Program-a-Concurrent-Traffic-Simulation -B /home/Vinagre/Documents/Udacity/CppND-Program-a-Concurrent-Traffic-Simulation/cmake-build-debug
+-- Found OpenCV: /usr (found suitable version "4.5.5", minimum required is "4.1") 
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/Vinagre/Documents/Udacity/CppND-Program-a-Concurrent-Traffic-Simulation/cmake-build-debug
